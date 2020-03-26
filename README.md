@@ -1,5 +1,5 @@
 # reddit-post-titles-downloader
-Easy tool to download any number of a certain subreddit post names sorted by a certain type
+Easy tool to download any number of a certain subreddit post titles sorted by a certain type
 
 NOTE:
 Reddit Account Needed
